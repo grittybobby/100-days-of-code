@@ -13,3 +13,8 @@ Another day into Bootstrap. Bootstrap button to be specific. Cool stuff. I keep 
 DAY 4
 Monday, May 5 2017
 Allergic reaction today. But I got my hour in after work. I had to miss family dinner though :( Learn about using <span>, <div>, and <i> tags. <i> is used to for the Font Awesome icons. Used them on the Cat Photo App. ie <i class="fa fa-thumbs-up"></i>
+
+DAY 5
+Tuesday, May 6 2017
+Spent almost an hour on one task. I don't know what the deal was. I think it is part my bad and something was wrong with the fCC page itself. Like it wasn't recognizing my code as being proper. I don't know. Fixed my radio buttons and checkboxes on the Cat App using Font Awesome <i> and Bootstrap <class="btn btn-block btn-primary">
+
