@@ -18,3 +18,7 @@ DAY 5
 Tuesday, May 6 2017
 Spent almost an hour on one task. I don't know what the deal was. I think it is part my bad and something was wrong with the fCC page itself. Like it wasn't recognizing my code as being proper. I don't know. Fixed my radio buttons and checkboxes on the Cat App using Font Awesome <i> and Bootstrap <class="btn btn-block btn-primary">
 
+DAY 6
+Wednesday, May 7 2017
+Start the jQuery piece. My local code group does not seem to be too active. I will try to get my hour in during my lunch tomorrow. See what happens.
+
