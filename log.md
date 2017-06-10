@@ -12,7 +12,7 @@ Another day into Bootstrap. Bootstrap button to be specific. Cool stuff. I keep 
 
 DAY 4
 Monday, May 5 2017
-Allergic reaction today. But I got my hour in after work. I had to miss family dinner though :( Learn about using <span>, <div>, and <i> tags. <i> is used to for the Font Awesome icons. Used them on the Cat Photo App. ie <i class="fa fa-thumbs-up"></i>
+Allergic reaction today. But I got my hour in after work. I had to miss family dinner though :( Learn about using <span>, <div>, and <i></i> tags. <i> is used to for the Font Awesome icons. Used them on the Cat Photo App. ie <i class="fa fa-thumbs-up"></i>
 
 DAY 5
 Tuesday, May 6 2017
