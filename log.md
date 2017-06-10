@@ -22,3 +22,10 @@ DAY 6
 Wednesday, May 7 2017
 Start the jQuery piece. My local code group does not seem to be too active. I will try to get my hour in during my lunch tomorrow. See what happens.
 
+DAY 7
+Thursday, May 8 2017
+I got the 1 hour in but besides that I am not able to do any posting. Went to bed at 12:30
+
+DAY 8
+Friday, May 9 2017
+Started getting into jQuery. It is really powerful. I lot to remember. I have to take notes and periodically read them over. Really enjoying this. Game 4 tonight. Looks like a sweep.
