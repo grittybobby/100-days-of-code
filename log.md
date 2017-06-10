@@ -29,3 +29,7 @@ I got the 1 hour in but besides that I am not able to do any posting. Went to be
 DAY 8
 Friday, May 9 2017
 Started getting into jQuery. It is really powerful. I lot to remember. I have to take notes and periodically read them over. Really enjoying this. Game 4 tonight. Looks like a sweep.
+
+DAY 9
+Saturday, May 10 2017
+Learn more jQuery. Got up to the Simon Game. Will start it in the morning. Took good notes. Also start the web dev bootcamp by Colt Steele on Udemy. I think this is a good move because I am listening to someone talk instead of reading as I do on fCC. Thinking of also starting to read the JS book by Simpson I have on Play Books. Empploying different learning methods at same time. Cavs won. Game 5 Monday. Kyrie went for 41.
