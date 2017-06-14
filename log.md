@@ -33,3 +33,17 @@ Started getting into jQuery. It is really powerful. I lot to remember. I have to
 DAY 9
 Saturday, May 10 2017
 Learn more jQuery. Got up to the Simon Game. Will start it in the morning. Took good notes. Also start the web dev bootcamp by Colt Steele on Udemy. I think this is a good move because I am listening to someone talk instead of reading as I do on fCC. Thinking of also starting to read the JS book by Simpson I have on Play Books. Empploying different learning methods at same time. Cavs won. Game 5 Monday. Kyrie went for 41.
+
+DAY 10
+Sunday, May 11 2017
+Yeeahh.
+
+DAY 11
+Monday, May 12 2017
+Yeeaahh.
+
+Day 12
+Tuesday, May 13 2017
+I watched the fCC video for the Tribute Page. Decided to do a Helen Keller tribute. Save the link to the picture. Watched a Colt Steele video on Udemy. Setup the initial html structure on the tribute page by watching Colt.
+
+
