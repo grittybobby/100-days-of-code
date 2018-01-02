@@ -46,4 +46,8 @@ Day 12
 Tuesday, May 13 2017
 I watched the fCC video for the Tribute Page. Decided to do a Helen Keller tribute. Save the link to the picture. Watched a Colt Steele video on Udemy. Setup the initial html structure on the tribute page by watching Colt.
 
+Day 1 
+Monday 1/1/2018
+Start again. Never despise the day of small (repeated) beginnings.
+Reading Up & Going. Learned JS is dynamically typed meaning variables can change their types as it flows through a program. toString and toFixed and declaring via "var a" or "const a". I also sent 2 tweets. Lets see how long I hang in there.
 
