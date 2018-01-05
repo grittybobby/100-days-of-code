@@ -51,3 +51,7 @@ Monday 1/1/2018
 Start again. Never despise the day of small (repeated) beginnings.
 Reading Up & Going. Learned JS is dynamically typed meaning variables can change their types as it flows through a program. toString and toFixed and declaring via "var a" or "const a". I also sent 2 tweets. Lets see how long I hang in there.
 
+DAY 4
+Thursday 1/5/18
+Blizzard today. Meeting cancelled. Start the React/Redux from Gridor on Udemy but learned that it is above me. Going to start Colt Steele's course again tomorrow. Marcy says she is going to start her paralegal course tomorrow irregardless of what that will do to our budget and that I should not depend on her to cover bills going forward. Wow! so much "for better or for worse". Jehovah please help me.
+
